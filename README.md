@@ -1,5 +1,7 @@
 # The NDLR Libraian project - powered by NDLR lovers!
 The USB-Serial interface of The NDLR enables users to save/load there data.
+
+**The serial commands are documanted in the Wiki**
  
 Hi All,
 Conductive Labs created this repository in order to capture the imagination of all those NDLR/Code-monkeys out there!
