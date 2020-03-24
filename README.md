@@ -1,4 +1,4 @@
-# The NDLR Libraian project - powered by NDLR lovers!
+# The NDLR Librarian project - powered by NDLR lovers!
 The USB-Serial interface of The NDLR enables users to save/load there data.
 
 **The serial commands are documented in the Wiki**
